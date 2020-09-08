@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+//Código de Vinícius Brito
 
 typedef std::vector<int> vec;
 
